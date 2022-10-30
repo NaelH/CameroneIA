@@ -8,7 +8,7 @@ Cette IA nécessite :
   - D'une connexion internet pour la police d'écriture (optionnel) 
 
 Ce dossier contient : 
-  - Un fichier SQL (DATABASE.sql)
+  - Un fichier SQL (cameroneia.sql)
   - index.php 
   - ia.php
   - functions.php
@@ -16,6 +16,8 @@ Ce dossier contient :
     - logout.php
     - nameselector.php
     - help_ia.php
+  - css
+    - styles.css
 
 Accessible depuis le site : 
   - index.php
