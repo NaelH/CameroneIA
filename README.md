@@ -21,6 +21,12 @@ Accessible depuis le site :
   - index.php
   - admin/help_ia.php
 
+Comment le mettre en place :
+  1. Se connecter a votre environnement MySQL
+  2. Importer la base de donnée que vous trouverez dans ce repository
+  3. Modifier la ligne $sql = new PDO(...)
+  
+
 Le reste renvoi une page blanche.
 
 J'attend vos retours dessus.
