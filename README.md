@@ -1,2 +1,27 @@
 # CameroneIA
-A IA made by me. My IA is named CameroneIA, he learn with your question, and when he don't know the awnser he ask you, what is the typical awnser.
+CameroneIA a été créer par moi-même, je commence au niveau des intelligence artificielle, mon objectif dans le mini projet que vous pouvez télécharger étais de créer 
+une sorte de personne nommé Camerone, qui apprend grâce au message que vous les utilisateurs pouvez poser. 
+
+Cette IA nécessite : 
+  - Un serveur web
+  - Un serveur MySQL
+  - D'une connexion internet pour la police d'écriture (optionnel) 
+
+Ce dossier contient : 
+  - Un fichier SQL (DATABASE.sql)
+  - index.php 
+  - ia.php
+  - functions.php
+  - admin
+    - logout.php
+    - nameselector.php
+    - help_ia.php
+
+Accessible depuis le site : 
+  - index.php
+  - admin/help_ia.php
+
+Le reste renvoi une page blanche.
+
+J'attend vos retours dessus.
+A très vite.
